@@ -1,10 +1,10 @@
 # Hi, I'm Samuel Oluyemi 👋
 
-### Junior Software Engineer | Full-Stack Developer
+### Software Engineer | Full-Stack Developer | Cloud & Systems Engineer | Information & Security Engineer 
 
 I'm a software developer passionate about building practical, scalable, and secure web applications.
 
-I enjoy working across the software development lifecycle, from designing responsive user interfaces to developing backend services, integrating databases, implementing authentication, and deploying applications.
+I enjoy working across the software development lifecycle, from designing responsive user interfaces to developing backend services, integrating databases, implementing authentication, and deploying applications. I'm strengthening my practical knowledge of Cloud Systems, and Information Security and Privacy
 
 ### 🛠️ Technical Skills
 
